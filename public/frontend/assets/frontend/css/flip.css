@@ -1,0 +1,64 @@
+/* flip */
+.home-page-courses .flip {
+	width: 370px;
+	height: 250px;
+	margin: 0 auto;
+	cursor: pointer;
+  }
+
+  .home-page-courses .flip,
+  .home-page-courses .flip a,
+  .home-page-courses a:hover {
+	color: #fff;
+  }
+  .home-page-courses .flip img {
+	width: 370px;
+	height: 250px;
+  }
+  .home-page-courses .flip .back {
+	background: #0089d1;
+	text-align: center;
+	padding: 20px 10px;
+	width: 250px;
+	height: 250px;
+  }
+
+  .home-page-courses .flip .back a {
+	color: #fff;
+	padding: 12px 8px;
+	display: block;
+  }
+
+  .home-page-courses .flip-col {
+	margin-bottom: 20px;
+  }
+
+  .upcoming-courses .flip {
+	  width: 268px;
+	height: 171px;
+	cursor: pointer;
+  }
+
+  .upcoming-courses .flip img{
+	width: 268px;
+	height: 171px;
+  }
+
+
+  .upcoming-courses .flip .back {
+	background: #0089d1;
+	text-align: center;
+	padding: 20px 10px;
+	width: 268px;
+	height: 171px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+
+  .upcoming-courses .flip .back a {
+	color: #fff !important;
+	padding: 12px 8px;
+	display: block;
+  }
+

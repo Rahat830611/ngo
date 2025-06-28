@@ -1,0 +1,37 @@
+/* footer */
+footer .footer-middle .container {
+	background-color: #191919;
+	padding: 15px;
+  }
+
+  footer .footer-middle {
+	padding-top: 32px;
+    /*background: #191919;*/
+    color: #fff;
+  }
+  footer .footer-middle .footer-middle-col {
+	/*margin-bottom: 32px;*/
+    padding-left: 84px;
+    padding-top: 30px;
+	}
+
+	.footer-middle ul li.d-flex i {
+		margin-top: 4px !important;
+	}
+	.footer-middle ul li .course-span {
+		margin-top: 4px !important;
+	}
+
+	.footer-location-col{
+		padding-left: 15px;
+		margin-bottom: 32px;
+	}
+
+	.footer-bottom.text-center{
+	padding-top: 21px;
+    padding-bottom: 30px;
+    font-size: 17px;
+    background: #3a3a3a;
+    color: #fff;
+	}
+	

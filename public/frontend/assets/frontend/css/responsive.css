@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+	h1{
+	  font-size: 1.5rem;
+	}
+	.testimonial-content p{
+	  width: 95%;
+	}
+	.swiper-pagination-wrapper{
+	  display: none !important;
+	}
+
+	.swiper-wrapper {
+	  height: 470px;
+	}
+
+	.top-header .brand {
+		text-align: center;
+	}
+	.top-header .tagline {
+		text-align: center;
+	}
+
+}
